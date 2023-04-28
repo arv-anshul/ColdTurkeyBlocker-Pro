@@ -1,6 +1,6 @@
 # Cold Turkey Blocker - Pro
 
-<p style="text-align:center;">
+<p align="center">
   <img src="https://i.pinimg.com/originals/7f/df/fe/7fdffe1da47ebc87eef090c3a62ecf87.jpg" alt="Logo" width="200" />
 </p>
 
