@@ -7,28 +7,27 @@
 <center>
     <h3 align="center">Unlock Pro features of Cold Turkey Blocker</h4>
     <p align="center">
-        <strong>Supports:</strong> (v4.4)<br>
+        <strong>Supports:</strong> (v4.5)<br>
         <strong>Created By:</strong> <a href="https://github.com/arv-anshul"> @arv-anshul</a><br>
     </p> 
 </center>
 
-Unlock all the Pro features of Cold Turkey Blocker [in 3 Steps](#how-to-use). Works for **Mac** and **Windows** both.
+Unlock all the Pro features of Cold Turkey Blocker [with one command](#how-to-use). Works for **Mac** and **Windows\*** both.
+
+> \*Program is not tested on Windows system.
 
 ## How to Use
 
-1. Clone this repo:
+- Run this command in your terminal.
 
 ```sh
-git clone https://github.com/arv-anshul/ColdTurkeyBlocker-Pro.git
+python <(curl -sSL https://raw.githubusercontent.com/arv-anshul/ColdTurkeyBlocker-Pro/main/main.py)
 ```
 
-2. Run `main.py`
+- Then, **specify your System Type** either `mac` for **MacOS** or `win` for **Windows**.
+- The program automatically check and change you blocker app status from `free` to `pro` and vice-versa.
 
-```sh
-python main.py
-```
-
-3. Then, **specify your System Type** either `Mac` or `Windows`.
+> **NOTE:** If your app is already with pro status then this program will change it to `free`. Re-Run the command to gain your previous app status.
 
 ## Raise Issue
 
