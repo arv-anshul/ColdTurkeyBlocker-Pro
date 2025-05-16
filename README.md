@@ -1,5 +1,13 @@
 # Cold Turkey Blocker - Pro
 
+> [!WARNING]
+>
+> _**This project is archived and no longer maintained.**_
+>
+> Please refer to the new repository for the latest updates and ongoing development:
+> **[ColdTurkeyBlockerPro-Activator-FREE](https://github.com/coderhisham/ColdTurkeyBlockerPro-Activator-FREE)** _by
+> [@coderhisham](https://github.com/coderhisham)_.
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/7f/df/fe/7fdffe1da47ebc87eef090c3a62ecf87.jpg" alt="Logo" width="200" />
 </p>
@@ -9,7 +17,7 @@
     <p align="center">
         <strong>Supports:</strong> (v4.5)<br>
         <strong>Created By:</strong> <a href="https://github.com/arv-anshul"> @arv-anshul</a><br>
-    </p> 
+    </p>
 </center>
 
 Unlock all the Pro features of Cold Turkey Blocker [with one command](#how-to-use). Works for **Mac** and **Windows\*** both.
